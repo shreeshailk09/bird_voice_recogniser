@@ -1,0 +1,8 @@
+numpy
+librosa
+torch
+tensorflow
+flask
+streamlit
+pydub
+
